@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Diptirani Nahak
-- 👀 I’m interested in ..software Developer
-- 🌱 I’m currently doing Internship...
-- 💞️ I’m looking for a entry leveljob ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **Diptirani Nahak**
 
-<!---
-diptin-1999/diptin-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data Analyst with 1+ year of experience  
+Skilled in SQL, Power BI, Python, and Excel for data analysis and reporting.
+
+🔍 I work on:
+- Data cleaning and transformation  
+- SQL-based analysis and performance reporting  
+- Dashboard development and insights generation  
+
+📫 Connect with me:  
+LinkedIn: https://www.linkedin.com/in/diptirani-nahak-542959226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYbC4DP4TRQCBhXPdGYaEzw%3D%3D
+Email: diptiraninahak98@gmail.com
+
+⚡ I enjoy turning complex data into simple insights.
